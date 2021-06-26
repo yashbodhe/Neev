@@ -26,24 +26,24 @@
 <details open="open">
   <summary>Table of Topics</summary>
   <ol>
-    <li><a href="#usage">Time Complexity</a></li>
-    <li><a href="#usage">Maths</a></li>
-    <li><a href="#usage">Recursion</a></li>
-    <li><a href="#usage">Array</a></li>
-    <li><a href="#usage">Linked Lists</a></li>
-    <li><a href="#usage">Stacks and Queues</a></li>
-    <li><a href="#usage">Strings</a></li>
-    <li><a href="#usage">Hashing</a></li>
-    <li><a href="#usage">Binary Search</a></li>
-    <li><a href="#usage">Sorting Algorithm</a></li>
-    <li><a href="#usage">Trees</a></li>
-    <li><a href="#usage">Heap or Priority Queue</a></li>
-    <li><a href="#usage">Graph</a></li>
-    <li><a href="#usage">Dynamic Programming</a></li>
-    <li><a href="#usage">Greedy Algorithm</a></li>
-    <li><a href="#usage">Backtracking</a></li>
-    <li><a href="#usage">Bit Manipulation</a></li>
-    <li><a href="#usage">Test DSA skills</a></li>
+    <li>Time Complexity</li>
+    <li>Maths</li>
+    <li>Recursion</li>
+    <li>Array</li>
+    <li>>Linked Lists</li>
+    <li>Stacks and Queues</li>
+    <li>Strings</li>
+    <li>Hashing</li>
+    <li>Binary Search</li>
+    <li>Sorting Algorithm</li>
+    <li>Trees</li>
+    <li>Heap or Priority Queue</li>
+    <li>Graph</li>
+    <li>Dynamic Programming</li>
+    <li>Greedy Algorithm</li>
+    <li>Backtracking</li>
+    <li>Bit Manipulation</li>
+    <li>Test DSA skills</li>
    
   </ol>
 </details>
