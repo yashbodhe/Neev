@@ -30,7 +30,7 @@
     <li>Maths</li>
     <li>Recursion</li>
     <li>Array</li>
-    <li>>Linked Lists</li>
+    <li>Linked Lists</li>
     <li>Stacks and Queues</li>
     <li>Strings</li>
     <li>Hashing</li>
